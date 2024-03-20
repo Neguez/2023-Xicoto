@@ -1,5 +1,8 @@
 
+# ===================================================
+# @neguez - 2024
 
+# Code that accompanies the article : 
 
 XICCARBON <- read.csv("F:/001_BACKUP_WORK/08_STATS/XICOTO/XICCARBON.csv", stringsAsFactors=TRUE)
 
@@ -7,7 +10,6 @@ XICCARBON <- read.csv("F:/001_BACKUP_WORK/08_STATS/XICOTO/XICCARBON.csv", string
 require(ggplot2) 
 require(hrbrthemes)
 
-# canviar ordre factors samples
 
 XICCARBON$Sample = factor(XICCARBON$Sample, levels = c("MW",
                                                        "MB",
@@ -32,8 +34,6 @@ ggplot(XICCARBON, aes(x=carbon, y=Cnumber, shape=Sample, color=Sample)) +
   ylab("Carbon number\n")
 
 
-
-#fons blanc
 
 ggplot(XICCARBON, aes(x=carbon, y=Cnumber, shape=Sample, color=Sample)) +
   geom_point(size=3.5) +
@@ -83,7 +83,6 @@ ggplot(XICALKANES, aes(x=alkane, y=grams, fill = Sample)) +
         legend.position = "none")
 
 
-#Vertical, un a sobre altre escala fixa
 
 ggplot(XICALKANES, aes(x=alkane, y=grams, fill = Sample)) +
   geom_bar(stat = "identity") +
