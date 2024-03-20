@@ -13,7 +13,10 @@ Link to the original publication ->  [tba]
 ###
 # Dataset
 ###
+1. XICALKANES.csv -> Xicotó
+2. XICCARBON.csv -> 
 
 ###
 # R Script
 ###
+1. scatter.R -> R Script for scatter plot and barplot
