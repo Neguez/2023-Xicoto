@@ -13,8 +13,8 @@ Link to the original publication ->  [tba]
 ###
 # Dataset
 ###
-1. XICALKANES.csv -> Xicotó
-2. XICCARBON.csv -> 
+1. XICALKANES.csv -> Raw data values from extracted sediment n-alkanes 
+2. XICCARBON.csv -> Raw data values from n-alkanes stable carbon isotope analysis 
 
 ###
 # R Script
