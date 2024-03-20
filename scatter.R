@@ -2,7 +2,9 @@
 # ===================================================
 # @neguez - 2024
 
-# Code that accompanies the article : 
+# Code that accompanies the article: 
+#Fernández-Palacios, E., Égüez, N., González-Olivares, C., Herrera-Herrera, A.V., Mallol, C., Mangado, X., Sánchez de la Torre, M. 2023. 
+#Approaching Neolithic husbandry practices through fire: Microcontextual and biomolecular analysis of a combustion feature from Abric del Xicotó (Northeastern Iberia)
 
 XICCARBON <- read.csv("F:/001_BACKUP_WORK/08_STATS/XICOTO/XICCARBON.csv", stringsAsFactors=TRUE)
 
