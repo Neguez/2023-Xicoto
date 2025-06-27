@@ -1,5 +1,5 @@
 ###
-# 2023-Xicoto
+# 2025-Xicoto
 ###
 Supplementary Materials to accompany the paper:
 
@@ -8,7 +8,7 @@ Fernández-Palacios, E., Égüez, N., González-Olivares, C., Herrera-Herrera, A
 
 Link to the original publication ->  [tba]
 
-2023-Xicoto repository includes the following files:
+2025-Xicoto repository includes the following files:
 
 ###
 # Dataset
