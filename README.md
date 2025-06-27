@@ -20,3 +20,5 @@ Link to the original publication ->  [tba]
 # R Script
 ###
 1. scatter.R -> R Script for scatter plot and barplot
+###
+https://doi.org/10.5281/zenodo.15756264
